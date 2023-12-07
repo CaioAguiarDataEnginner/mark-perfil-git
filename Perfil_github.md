@@ -22,7 +22,7 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/330px-Databricks_Logo.png" alt="Databricks" style="width: 200px; height: 100px; margin-right: 10px; margin-top: 40px; margin-left: 40px;">
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png" alt="Pandas" style="width: 200px; height: 100px; margin-right: 20px; margin-top: 40px; margin-left: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png" alt="Pandas" style="width: 200px; height: 0px; margin-right: 20px; margin-top: 40px; margin-left: 20px;">
 
 </div>
 
@@ -36,9 +36,9 @@
 </div>
 
 <div style="display: flex;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="width: 300px; height: 200px; margin-right: 20px; margin-top: 60px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="width: 150px; height: 100px; margin-right: 20px; margin-top: 60px;">
 
- <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="R" style="width: 300px; height: 100px; margin-right: 20px;margin-top: 50px; margin-left: 40px">
+ <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="R" style="width: 200px; height: 100px; margin-right: 20px;margin-top: 50px; margin-left: 40px">
 
 
 
