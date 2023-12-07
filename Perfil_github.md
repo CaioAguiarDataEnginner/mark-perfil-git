@@ -38,7 +38,7 @@
 <div style="display: flex;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="width: 300px; height: 200px; margin-right: 20px; margin-top: 40px;">
 
- <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="R" style="width: 300px; height: 100px; margin-right: 20px;margin-top: 70px; margin-left: 40px">
+ <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="R" style="width: 300px; height: 100px; margin-right: 20px;margin-top: 50px; margin-left: 40px">
 
 
 
