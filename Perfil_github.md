@@ -18,7 +18,7 @@
 <div style="display: flex;">
 
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" style="width: 200px; height: 100px; margin-right: 10px; margin-top: 40px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" style="width: 200px; height: 100px; margin-right: 20px; margin-top: 40px;">
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/330px-Databricks_Logo.png" alt="Databricks" style="width: 200px; height: 100px; margin-right: 10px; margin-top: 40px; margin-left: 40px;">
 
